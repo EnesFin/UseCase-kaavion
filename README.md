@@ -1,4 +1,5 @@
 <img src="logo.png" align="right" width="300">
+
 # Ohjelmiston toteutus UseCase-kaavion pohjalta
 
 ## Luo äänestys
